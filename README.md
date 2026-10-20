@@ -1,5 +1,9 @@
 # harness setup · selfdev
 
+<!-- aim-public-links:start -->
+[Лабы AI Mindset](https://aimindset.org/?utm_source=website&utm_medium=article&utm_campaign=start&utm_content=github-harness-setup-selfdev#learning) · [База знаний](https://base.aimindset.org/?utm_source=website&utm_medium=article&utm_campaign=start&utm_content=github-harness-setup-selfdev)
+<!-- aim-public-links:end -->
+
 ![harness setup cover](docs/cover.png)
 
 Личный AI-харнес для практики саморазвития: что это, как устроено, как собрать свой за вечер.
